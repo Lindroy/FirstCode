@@ -1,1 +1,1 @@
-include ':app', ':fragmenttest', ':fragmentbestpractice', ':runtimepermissiontest', ':contactstest'
+include ':app', ':fragmenttest', ':fragmentbestpractice', ':runtimepermissiontest', ':contactstest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice'
