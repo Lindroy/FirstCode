@@ -8,9 +8,13 @@
       <module fileurl="file://$PROJECT_DIR$/broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/broadcasttest/broadcasttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" filepath="$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactstest/contactstest.iml" filepath="$PROJECT_DIR$/contactstest/contactstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasettest/databasettest.iml" filepath="$PROJECT_DIR$/databasettest/databasettest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" filepath="$PROJECT_DIR$/filepersistencetest/filepersistencetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" filepath="$PROJECT_DIR$/fragmentbestpractice/fragmentbestpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litepaltest/litepaltest.iml" filepath="$PROJECT_DIR$/litepaltest/litepaltest.iml" />
       <module fileurl="file://$PROJECT_DIR$/runtimepermissiontest/runtimepermissiontest.iml" filepath="$PROJECT_DIR$/runtimepermissiontest/runtimepermissiontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" filepath="$PROJECT_DIR$/sharedpreferencestest/sharedpreferencestest.iml" />
     </modules>
   </component>
 </project>
