@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/fragmentbestpractice" />
             <option value="$PROJECT_DIR$/fragmenttest" />
             <option value="$PROJECT_DIR$/litepaltest" />
+            <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/runtimepermissiontest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
           </set>

@@ -1,1 +1,1 @@
-include ':app', ':fragmenttest', ':fragmentbestpractice', ':runtimepermissiontest', ':contactstest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest', ':sharedpreferencestest', ':databasettest', ':litepaltest'
+include ':app', ':fragmenttest', ':fragmentbestpractice', ':runtimepermissiontest', ':contactstest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest', ':sharedpreferencestest', ':databasettest', ':litepaltest', ':providertest'

@@ -3,7 +3,6 @@ package com.lindroid.databasettest;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.widget.Toast;
 
 /**
  * Created by Lindroid on 2017/1/16.
@@ -33,7 +32,7 @@ public class MyDatabaseHelper extends SQLiteOpenHelper {
         db.execSQL(CREATE_BOOK);
         db.execSQL(CREATE_CATEGORY);
 
-        Toast.makeText(mContext, "数据库创建成功", Toast.LENGTH_SHORT).show();
+//        Toast.makeText(mContext, "数据库创建成功", Toast.LENGTH_SHORT).show();
     }
 
     @Override
