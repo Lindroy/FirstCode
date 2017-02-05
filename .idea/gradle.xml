@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidthreadtest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastbestpractice" />
             <option value="$PROJECT_DIR$/broadcasttest" />
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/networktest" />
             <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/runtimepermissiontest" />
+            <option value="$PROJECT_DIR$/servicetest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
             <option value="$PROJECT_DIR$/webviewtest" />
           </set>
